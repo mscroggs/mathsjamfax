@@ -1,6 +1,6 @@
 from pyfax import Page, Line, Color
 import twitter
-import config
+from pyfax import config
 
 if config.twitter_access_key is None:
     tweets = []
