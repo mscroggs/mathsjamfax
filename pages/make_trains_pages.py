@@ -1,5 +1,5 @@
 from pyfax import Page, Color, Line
-import config
+from pyfax import config
 
 
 class Station:
