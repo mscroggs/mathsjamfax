@@ -1,7 +1,7 @@
 # MATHSJAMFAX
 
-MJFAX is appearing in both bars at [EMF 2022](https://emfcamp.org). This repo contains the
-code used to generate its pages.
+MJFAX will be shown on a TV at [MathsJam Gathering 2022](https://www.mathsjam.com/gathering/uk/).
+This repo contains the code used to generate its pages.
 
 ## Setting up MJFAX
 

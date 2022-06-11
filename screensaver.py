@@ -19,7 +19,7 @@ scr.refresh()
 pos = [0, 0]
 dir = [1, 1]
 
-text = f"Press {config.teletext_button} to open EMFFAX"
+text = f"Press {config.teletext_button} to open MJFAX"
 
 try:
     while True:
